@@ -11,7 +11,7 @@ PP20thDataExtractor extract <executable> <GAME.DAT> <output>
 
 ### Build
 ```
-PP20thDataExtractor extract <executable> <input> <GAME.DAT>
+PP20thDataExtractor build <executable> <input> <GAME.DAT>
 ```
 
 ### Arguments
